@@ -8,7 +8,7 @@ This repository contains a simple JavaScript utility to filter out emails from f
 - `.gitignore`: Specifies files and directories to ignore in version control.
 
 ## Usage
-1. **Host the JSON File**: The `freeEmailProviders.json` is hosted in this repository. Use the raw URL (e.g., `https://raw.githubusercontent.com/your-username/your-repo/main/freeEmailProviders.json`) to fetch it in your application.
+1. **Host the JSON File**: The `freeEmailProviders.json` is hosted in this repository. Use the raw URL (`https://raw.githubusercontent.com/atrealastralis/Email-Filter-Repository/main/freeEmailProviders.json`) to fetch it in your application.
 2. **Integrate the Filter**: Use `emailFilter.js` in your project to filter emails. The script fetches the provider list and filters out emails from free or disposable domains.
 3. **Update the List**: Modify `freeEmailProviders.json` to add or remove domains as needed. Push changes to the repository to update the hosted file.
 
@@ -22,7 +22,7 @@ filterEmails(input).then(output => console.log(output));
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/atrealastralis/Email-Filter-Repository.git
    ```
 2. Host the `freeEmailProviders.json` file by ensuring the repository is public.
 3. Use the raw GitHub URL in your `emailFilter.js` fetch call.
