@@ -1,34 +1,44 @@
-[
-  "gmail.com", "yahoo.com", "hotmail.com", "outlook.com", "aol.com", "icloud.com", "mail.com", "live.com",
-  "discard.email", "tempmail.space", "mailinator.com", "mailinator2.com", "sogetthis.com", "tempmail.plus",
-  "10minutemail.com", "10minutemail.net", "guerrillamail.com", "sharklasers.com", "guerrillamail.biz",
-  "guerrillamail.de", "guerrillamail.org", "yopmail.com", "yopmail.fr", "yopmail.net", "throwawaymail.com",
-  "temp-mail.io", "tempmailo.com", "getnada.com", "addymail.com", "nada.ltd", "burnermail.io", "proton.me",
-  "fakemail.com", "fakemail.net", "tempail.com", "mohmal.com", "mohmal.im", "disposablemail.com", "mytemp.email",
-  "temp-mailbox.com", "maildrop.cc", "emailondeck.com", "trashmail.com", "trashmail.net", "trashmail.org",
-  "mailnesia.com", "tempm.com", "byom.de", "moakt.com", "jetable.org", "jetable.fr", "jetable.com",
-  "mail-temporaire.fr", "mail-temporaire.com", "mailcatch.com", "fakeinbox.com", "deadaddress.com",
-  "dispostable.com", "dispostable.org", "spambox.us", "spamgourmet.com", "inboxbear.com", "mintemail.com",
-  "filzmail.com", "33mail.com", "33mail.org", "anonymbox.com", "anonymailer.net", "shortmail.com", "shortmail.me",
-  "mailmetrash.com", "mailhero.io", "mailnull.com", "mailforspam.com", "mailmoat.com", "spamfree24.org",
-  "spamfree24.com", "spamfree24.net", "maildu.de", "mailinator.io", "mailinator.biz", "mailinator.us",
-  "mailinator.info", "googlemail.com", "yahoo.fr", "yahoo.co.uk", "yahoo.de", "yahoo.it", "yahoo.es",
-  "yahoo.co.jp", "yahoo.ca", "yahoo.com.au", "yahoo.com.br", "yahoo.in", "hotmail.fr", "hotmail.co.uk",
-  "hotmail.de", "hotmail.it", "hotmail.es", "live.fr", "live.co.uk", "live.de", "live.it", "live.es",
-  "msn.com", "protonmail.com", "protonmail.ch", "zoho.com", "zohomail.com", "zohomail.eu", "zohomail.in",
-  "me.com", "mac.com", "aim.com", "gmx.com", "gmx.de", "gmx.fr", "gmx.net", "gmx.at", "gmx.ch", "web.de",
-  "tutanota.com", "tutanota.de", "fastmail.com", "fastmail.fm", "fastmail.net", "yandex.com", "yandex.ru",
-  "yandex.ua", "yandex.by", "yandex.kz", "mail.ru", "inbox.ru", "bk.ru", "list.ru", "rambler.ru", "qq.com",
-  "163.com", "126.com", "yeah.net", "sina.com", "sina.cn", "sohu.com", "tom.com", "rediffmail.com",
-  "rediff.com", "hushmail.com", "runbox.com", "runbox.no", "posteo.de", "mailfence.com", "disroot.org",
-  "autistici.org", "riseup.net", "openmailbox.org", "mail2world.com", "inbox.com", "lycos.com", "excite.com",
-  "seznam.cz", "email.cz", "wp.pl", "o2.pl", "onet.pl", "interia.pl", "hotmail.com.br", "hotmail.com.ar",
-  "hotmail.com.mx", "yahoo.com.ar", "yahoo.com.mx", "mail.yahoo.com", "gmx.us", "gmx.co.uk", "gmx.es",
-  "fastmail.co.uk", "fastmail.us", "zohomail.com.au", "zohomail.jp", "protonmail.me", "tutanota.me",
-  "yandex.com.tr", "yandex.com.br", "mail.ru.com", "inbox.lv", "mail.bg", "abv.bg", "ukr.net", "i.ua",
-  "meta.ua", "hotmail.jp", "yahoo.co.kr", "yandex.fr", "yandex.de", "gmx.it", "gmx.pl", "mail.com.au",
-  "mail.com.br", "mail.com.tr", "runbox.us", "runbox.eu", "zoho.eu", "zoho.in", "fastmail.to", "fastmail.se",
-  "fastmail.cn", "fastmail.in", "fastmail.jp", "seznam.com", "email.com", "lycos.co.uk", "lycos.de",
-  "excite.co.jp", "excite.it", "mail2world.net", "inbox.lt", "inbox.com.br", "hotmail.co.nz", "yahoo.co.nz",
-  "gmx.com.au", "gmx.com.br"
-]
+{
+  "General": [
+    "gmail.com", "yahoo.com", "hotmail.com", "outlook.com", "aol.com", "icloud.com", "mail.com", "live.com",
+    "googlemail.com", "yahoo.fr", "yahoo.co.uk", "yahoo.de", "yahoo.it", "yahoo.es", "yahoo.co.jp", "yahoo.ca",
+    "yahoo.com.au", "yahoo.com.br", "yahoo.in", "hotmail.fr", "hotmail.co.uk", "hotmail.de", "hotmail.it",
+    "hotmail.es", "live.fr", "live.co.uk", "live.de", "live.it", "live.es", "msn.com", "me.com", "mac.com",
+    "aim.com", "mail.yahoo.com", "hotmail.com.br", "hotmail.com.ar", "hotmail.com.mx", "yahoo.com.ar",
+    "yahoo.com.mx", "hotmail.jp", "yahoo.co.kr", "mail.com.au", "mail.com.br", "mail.com.tr", "hotmail.co.nz",
+    "yahoo.co.nz", "gmx.com", "gmx.de", "gmx.fr", "gmx.net", "gmx.at", "gmx.ch", "gmx.us", "gmx.co.uk",
+    "gmx.es", "gmx.it", "gmx.pl", "gmx.com.au", "gmx.com.br", "fastmail.com", "fastmail.fm", "fastmail.net",
+    "fastmail.co.uk", "fastmail.us", "fastmail.to", "fastmail.se", "fastmail.cn", "fastmail.in", "fastmail.jp",
+    "mail.ru", "inbox.ru", "bk.ru", "list.ru", "yandex.com", "yandex.ru", "yandex.ua", "yandex.by", "yandex.kz",
+    "yandex.com.tr", "yandex.com.br", "yandex.fr", "yandex.de"
+  ],
+  "Temporary Mail": [
+    "discard.email", "tempmail.space", "mailinator.com", "mailinator2.com", "sogetthis.com", "tempmail.plus",
+    "10minutemail.com", "10minutemail.net", "guerrillamail.com", "sharklasers.com", "guerrillamail.biz",
+    "guerrillamail.de", "guerrillamail.org", "yopmail.com", "yopmail.fr", "yopmail.net", "throwawaymail.com",
+    "temp-mail.io", "tempmailo.com", "getnada.com", "addymail.com", "nada.ltd", "burnermail.io", "fakemail.com",
+    "fakemail.net", "tempail.com", "mohmal.com", "mohmal.im", "disposablemail.com", "mytemp.email",
+    "temp-mailbox.com", "maildrop.cc", "emailondeck.com", "trashmail.com", "trashmail.net", "trashmail.org",
+    "mailnesia.com", "tempm.com", "byom.de", "moakt.com", "jetable.org", "jetable.fr", "jetable.com",
+    "mail-temporaire.fr", "mail-temporaire.com", "mailcatch.com", "fakeinbox.com", "deadaddress.com",
+    "dispostable.com", "dispostable.org", "spambox.us", "spamgourmet.com", "inboxbear.com", "mintemail.com",
+    "filzmail.com", "33mail.com", "33mail.org", "anonymbox.com", "anonymailer.net", "shortmail.com",
+    "shortmail.me", "mailmetrash.com", "mailhero.io", "mailnull.com", "mailforspam.com", "mailmoat.com",
+    "spamfree24.org", "spamfree24.com", "spamfree24.net", "maildu.de", "mailinator.io", "mailinator.biz",
+    "mailinator.us", "mailinator.info"
+  ],
+  "Custom Domain": [
+    "zoho.com", "zohomail.com", "zohomail.eu", "zohomail.in", "zohomail.com.au", "zohomail.jp", "zoho.eu",
+    "zoho.in", "proton.me", "protonmail.com", "protonmail.ch", "protonmail.me", "tutanota.com", "tutanota.de",
+    "tutanota.me", "mailbox.org", "skiff.com", "startmail.com", "ctemplar.com", "countermail.com"
+  ],
+  "Additional": [
+    "web.de", "qq.com", "163.com", "126.com", "yeah.net", "sina.com", "sina.cn", "sohu.com", "tom.com",
+    "rediffmail.com", "rediff.com", "hushmail.com", "runbox.com", "runbox.no", "runbox.us", "runbox.eu",
+    "posteo.de", "mailfence.com", "disroot.org", "autistici.org", "riseup.net", "openmailbox.org",
+    "mail2world.com", "inbox.com", "lycos.com", "excite.com", "seznam.cz", "email.cz", "wp.pl", "o2.pl",
+    "onet.pl", "interia.pl", "inbox.lt", "inbox.com.br", "inbox.lv", "mail.bg", "abv.bg", "ukr.net", "i.ua",
+    "meta.ua", "seznam.com", "email.com", "lycos.co.uk", "lycos.de", "excite.co.jp", "excite.it",
+    "mail2world.net", "shigainvestment.com", "bebizminded.com", "betterbiztips.com"
+  ]
+}
