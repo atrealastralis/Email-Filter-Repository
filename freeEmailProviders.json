@@ -10,7 +10,9 @@
     "gmx.es", "gmx.it", "gmx.pl", "gmx.com.au", "gmx.com.br", "fastmail.com", "fastmail.fm", "fastmail.net",
     "fastmail.co.uk", "fastmail.us", "fastmail.to", "fastmail.se", "fastmail.cn", "fastmail.in", "fastmail.jp",
     "mail.ru", "inbox.ru", "bk.ru", "list.ru", "yandex.com", "yandex.ru", "yandex.ua", "yandex.by", "yandex.kz",
-    "yandex.com.tr", "yandex.com.br", "yandex.fr", "yandex.de"
+    "yandex.com.tr", "yandex.com.br", "yandex.fr", "yandex.de", "zoho.com", "zohomail.com", "zohomail.eu", 
+    "zohomail.in", "zohomail.com.au", "zohomail.jp", "zoho.eu", "zoho.in", "proton.me", "protonmail.com", 
+    "protonmail.ch", "protonmail.me"
   ],
   "Temporary Mail": [
     "discard.email", "tempmail.space", "mailinator.com", "mailinator2.com", "sogetthis.com", "tempmail.plus",
@@ -28,17 +30,14 @@
     "mailinator.us", "mailinator.info"
   ],
   "Custom Domain": [
-    "zoho.com", "zohomail.com", "zohomail.eu", "zohomail.in", "zohomail.com.au", "zohomail.jp", "zoho.eu",
-    "zoho.in", "proton.me", "protonmail.com", "protonmail.ch", "protonmail.me", "tutanota.com", "tutanota.de",
-    "tutanota.me", "mailbox.org", "skiff.com", "startmail.com", "ctemplar.com", "countermail.com"
-  ],
-  "Additional": [
-    "web.de", "qq.com", "163.com", "126.com", "yeah.net", "sina.com", "sina.cn", "sohu.com", "tom.com",
-    "rediffmail.com", "rediff.com", "hushmail.com", "runbox.com", "runbox.no", "runbox.us", "runbox.eu",
-    "posteo.de", "mailfence.com", "disroot.org", "autistici.org", "riseup.net", "openmailbox.org",
-    "mail2world.com", "inbox.com", "lycos.com", "excite.com", "seznam.cz", "email.cz", "wp.pl", "o2.pl",
-    "onet.pl", "interia.pl", "inbox.lt", "inbox.com.br", "inbox.lv", "mail.bg", "abv.bg", "ukr.net", "i.ua",
-    "meta.ua", "seznam.com", "email.com", "lycos.co.uk", "lycos.de", "excite.co.jp", "excite.it",
-    "mail2world.net", "shigainvestment.com", "bebizminded.com", "betterbiztips.com"
+    "tutanota.com", "tutanota.de", "tutanota.me", "mailbox.org", "skiff.com", "startmail.com", "ctemplar.com", 
+    "countermail.com", "web.de", "qq.com", "163.com", "126.com", "yeah.net", "sina.com", "sina.cn", "sohu.com", 
+    "tom.com", "rediffmail.com", "rediff.com", "hushmail.com", "runbox.com", "runbox.no", "runbox.us", "runbox.eu",
+    "posteo.de", "mailfence.com", "disroot.org", "autistici.org", "riseup.net", "openmailbox.org", "mail2world.com", 
+    "inbox.com", "lycos.com", "excite.com", "seznam.cz", "email.cz", "wp.pl", "o2.pl", "onet.pl", "interia.pl", 
+    "inbox.lt", "inbox.com.br", "inbox.lv", "mail.bg", "abv.bg", "ukr.net", "i.ua", "meta.ua", "seznam.com", 
+    "email.com", "lycos.co.uk", "lycos.de", "excite.co.jp", "excite.it", "mail2world.net", "shigainvestment.com", 
+    "bebizminded.com", "betterbiztips.com"
   ]
+
 }
