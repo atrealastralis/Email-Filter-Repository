@@ -12,7 +12,7 @@
     "mail.ru", "inbox.ru", "bk.ru", "list.ru", "yandex.com", "yandex.ru", "yandex.ua", "yandex.by", "yandex.kz",
     "yandex.com.tr", "yandex.com.br", "yandex.fr", "yandex.de", "zoho.com", "zohomail.com", "zohomail.eu", 
     "zohomail.in", "zohomail.com.au", "zohomail.jp", "zoho.eu", "zoho.in", "proton.me", "protonmail.com", 
-    "protonmail.ch", "protonmail.me", "apple.com"
+    "protonmail.ch", "protonmail.me", "apple.com", "hotmail.c" , "hotmail.co"
   ],
   "Temporary Mail": [
     "discard.email", "tempmail.space", "mailinator.com", "mailinator2.com", "sogetthis.com", "tempmail.plus",
@@ -27,7 +27,7 @@
     "filzmail.com", "33mail.com", "33mail.org", "anonymbox.com", "anonymailer.net", "shortmail.com",
     "shortmail.me", "mailmetrash.com", "mailhero.io", "mailnull.com", "mailforspam.com", "mailmoat.com",
     "spamfree24.org", "spamfree24.com", "spamfree24.net", "maildu.de", "mailinator.io", "mailinator.biz",
-    "mailinator.us", "mailinator.info"
+    "mailinator.us", "mailinator.info", "tempmail.us.com"
   ],
   "Custom Domain": [
     "tutanota.com", "tutanota.de", "tutanota.me", "mailbox.org", "skiff.com", "startmail.com", "ctemplar.com", 
